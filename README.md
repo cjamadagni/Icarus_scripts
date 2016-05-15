@@ -6,5 +6,6 @@ This script can be used to study the relationship between cache hit ratio and ca
 
 Running the script:
  - Make `Experiment #1` the pwd. 
- - Execute the command `sh run.sh`
+ - Execute the command `sh run.sh`.
+ - The results will be stored in `results.pickle` file and the graphs generated will be present in the `plots` directory.
 
